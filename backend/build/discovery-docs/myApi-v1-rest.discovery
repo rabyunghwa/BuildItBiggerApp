@@ -1,6 +1,6 @@
 {
  "kind": "discovery#restDescription",
- "etag": "\"u_zXkMELIlX4ktyNbM2XKD4vK8E/ZJhdWWfrmzrch1ifp8TXxCuJgHY\"",
+ "etag": "\"u_zXkMELIlX4ktyNbM2XKD4vK8E/bgocYkC87vMEwgIrZxYqM3bmj0A\"",
  "discoveryVersion": "v1",
  "id": "myApi:v1",
  "name": "myApi",
@@ -13,9 +13,9 @@
   "x32": "http://www.google.com/images/icons/product/search-32.gif"
  },
  "protocol": "rest",
- "baseUrl": "https://spratsmith.appspot.com/_ah/api/myApi/v1/sayHi/",
+ "baseUrl": "https://YOUR OWN GOOGLE APP ENGINE APP NAME.appspot.com/_ah/api/myApi/v1/sayHi/",
  "basePath": "/_ah/api/myApi/v1/sayHi/",
- "rootUrl": "https://spratsmith.appspot.com/_ah/api/",
+ "rootUrl": "https://YOUR OWN GOOGLE APP ENGINE APP NAME.appspot.com/_ah/api/",
  "servicePath": "myApi/v1/sayHi/",
  "batchPath": "batch",
  "parameters": {
